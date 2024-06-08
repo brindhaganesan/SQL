@@ -1,1 +1,1 @@
-# SQL
+Kickstarter database: ks-data.sql
